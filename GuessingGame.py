@@ -10,4 +10,4 @@ if __name__ == "__main__":
         while guess != computerNumber:
             guess = input("Wrong! Guess again: ")
         print("Yes! My number was " + computerNumber + "!")
-        playAgain = input("Play again? (Y/N): ")
+        playAgain = input("Play again ? (Y/N): ")
